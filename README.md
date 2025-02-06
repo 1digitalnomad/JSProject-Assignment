@@ -1,4 +1,4 @@
-## With this assignment, we're providing you the file structure necessary for you to repeat for the rest of the CSS assignments. Note: This does not apply to the Algorithm assignments.  
+## With this assignment, we're providing you the file structure necessary for you to repeat for the rest of the CSS assignments. Note: This does not apply to the Algorithm assignments.  Coding dojo.
 #### The structure is always like this...
 - index.html
 - style.css
